@@ -1,6 +1,6 @@
 ### finance-calculator 
 
-##finance calculator for investment or home loan
+## finance calculator for investment or home loan
 
 Development of a finance calculator where the user is asked the type of investment: either an investment with simple or compund interest or a home loan bond. 
 The scope of the application was to create a flow control of if -elif -else in python. 
